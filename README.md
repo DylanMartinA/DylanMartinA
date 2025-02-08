@@ -3,9 +3,9 @@
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=DylanMartinA&color=blue&style=flat-square) -->
 
 ## 💻 About Me
-- 🎓 Software engineer and aspiring full-stack developer.
-- ♻️ Looking for any way I can to bring posive change to the world. 
-- 🌍 Building projects that make an impact.
+- 🌱 I'm a software engineer and aspiring full-stack developer.
+- 🌟 Working to merge technology and compassion to bring positive change in the world.
+- 🚀 Founder of **Elaris**, a startup in development aimed at innovating recycling systems through increased management and ease of access.
 
 ## 🚀 Skills
 - **Programming Languages:** C++, JavaScript, Java, Python, C++.
