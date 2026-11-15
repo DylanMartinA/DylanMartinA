@@ -2,7 +2,9 @@
 <table width="100%">
   <tbody>
     <tr>
-      <td colspan="2" width="100%"><samp>● ● ● &nbsp; dyl@github: ~ &nbsp; — &nbsp; profile</samp></td>
+      <td colspan="2" width="800">
+        <samp>● ● ● &nbsp; dyl@github: ~ &nbsp; — &nbsp; profile</samp>
+      </td>
     </tr>
     <tr>
       <td width="37%" valign="top" align="center">
@@ -12,8 +14,7 @@
       </td>
       <td valign="top">
   <pre>dyl@github
-
-  ---
+────────────────────────────
   Name:       Dylan Martin
   Location:   Boston, MA
   Work:       Engineer @ Exactics
@@ -25,7 +26,12 @@
     </tr>
   <tr>
     <td colspan="2">
-      <pre>dyl@github:~$ tree ~/projects/ 
+      <samp>dyl@github:~$ tree ~/projects/</samp>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <pre>
       &#10;projects/
       ├── <strong>work/</strong>
       │   ├── <strong>exactics-companion/</strong>
@@ -48,17 +54,22 @@
           │
           └── <strong>lighting-console/</strong>
               Motorized smart-home lighting controls </pre>
-  </td>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <samp>dyl@github:~$ cat ~/about.txt</samp>
+      </td>
     </tr>
       <tr>
-    <td colspan="2">
-      <pre>dyl@github:~$ cat ~/about.txt
-      <a href="https://dylanmartin.dev">[portfolio]</a></pre>
-            </td>
-          </tr>
-          <tr>
-            <td colspan="2"><samp>dyl@github:~$ |</samp></td>
-          </tr>
+        <td colspan="2">
+          <pre>
+<a href="https://dylanmartin.dev">[portfolio]</a></pre>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2"><samp>dyl@github:~$ |</samp></td>
+      </tr>
   </tbody>
 </table>
 </div>
