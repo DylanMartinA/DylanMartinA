@@ -36,11 +36,11 @@
       ├── <strong>work/</strong>
       │   ├── <strong>exactics-companion/</strong>
       │   │   Mobile software for connected diagnostic
-      │   │   hardware and patient-facing test workflows.
+      │   │   hardware and patient-facing test workflows
       │   │
       │   └── <strong>homelab-reader/</strong>
       │       Hardware and embedded software development for 
-      │       for an at-home molecular diagnostic reader.
+      │       for an at-home molecular diagnostic reader
       │
       └── <strong>personal/</strong>
           ├── <strong>procedural-island/</strong>
@@ -64,7 +64,9 @@
       <tr>
         <td colspan="2">
           <pre>
-<a href="https://dylanmartin.dev">[portfolio]</a></pre>
+I have a very bad habit of building my own versions of things that someone smarter than me already built. 
+<br>
+<a href="https://dylanmartin.dev">[portfolio]</a> (outdated; new version in progress)</pre>
         </td>
       </tr>
       <tr>
