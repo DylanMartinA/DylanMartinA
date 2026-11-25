@@ -46,6 +46,10 @@
           ├── <strong>procedural-island/</strong>
           │   Algorithmic terrain generation
           │
+          ├── <a href="https://threebodyencryption.dev">three-body-encryption/</a>
+          │   Experiment on cryptography using chaotic
+          │   three-body orbital dynamics
+          │
           ├── <strong>latexsync/</strong>
           │   LaTeX and Google Docs automated synchronization tool
           │
